@@ -1,6 +1,6 @@
 # AngularMaterialChartJS StarterApp
 
-![alt text]https://github.com/JayPi89/Angular-Material-ChartJS/blob/main/src/assets/sample.png
+![alt text](https://github.com/JayPi89/Angular-Material-ChartJS/blob/main/src/assets/sample.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
 
