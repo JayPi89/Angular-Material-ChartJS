@@ -18,3 +18,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  - clone repository
  - run 'npm install' in console
  - run 'npm start' or 'ng serve'
+ - open 'localhost:4200' in your browser
